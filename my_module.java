@@ -7,6 +7,6 @@ class Hello{
 		System.out.println("Bye");
 	}
 	public static void main(String[] args){
-		System.out.println("Hello");
+		System.out.println("Hello"); //주석
 	}
 }
